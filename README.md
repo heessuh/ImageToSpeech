@@ -1,4 +1,4 @@
-# Test Image To Speech
+# Text Image To Speech
 
 Using TesseractJS library to convert text image to speech. Uses TesseractJS as CDN v2.1.0 in index.html
 
